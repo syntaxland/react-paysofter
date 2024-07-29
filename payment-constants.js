@@ -1,0 +1,56 @@
+// payment-constants.js
+
+export const PAYMENT_DURATION_CHOICES = [
+  ["Within 1 day", "Within 1 day"],
+  ["2 days", "Less than 2 days"],
+  ["3 days", "Less than 3 days"],
+  ["5 days", "Less than 5 days"],
+  ["1 week", "Less than 1 week"],
+  ["2 weeks", "Less than 2 weeks"],
+  ["1 month", "Less than 1 month"],
+];
+
+export const MONTH_CHOICES = [
+  ["January", "01"],
+  ["February", "02"],
+  ["March", "03"],
+  ["April", "04"],
+  ["May", "05"],
+  ["June", "06"],
+  ["July", "07"],
+  ["August", "08"],
+  ["September", "09"],
+  ["October", "10"],
+  ["November", "11"],
+  ["December", "12"],
+];
+
+export const YEAR_CHOICES = [
+  ["2024", "24"],
+  ["2025", "25"],
+  ["2026", "26"],
+  ["2027", "27"],
+  ["2028", "28"],
+  ["2029", "29"],
+  ["2030", "30"],
+  ["2031", "31"],
+  ["2032", "32"],
+  ["2033", "33"],
+  ["2034", "34"],
+  ["2035", "35"],
+  ["2036", "36"],
+  ["2037", "37"],
+  ["2038", "38"],
+  ["2039", "39"],
+  ["2040", "40"],
+  ["2041", "41"],
+  ["2042", "42"],
+  ["2043", "43"],
+  ["2044", "44"],
+  ["2045", "45"],
+  ["2046", "46"],
+  ["2047", "47"],
+  ["2048", "48"],
+  ["2049", "49"],
+  ["2050", "50"],
+];
